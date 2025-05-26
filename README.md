@@ -65,7 +65,7 @@ Development Tools:
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username](https://github.com/Kanyi541)/rent-management-app.git
+   git clone [https://github.com/Kanyi541/rent-management-app.git
    cd rent-management-app
    ```
 
